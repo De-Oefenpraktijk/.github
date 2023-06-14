@@ -36,6 +36,12 @@ That's a little bit more complex. The idea is that we don't want to expose stagi
 The next step is to do a code review with your fellow engineers and when your pull request is approved, merge it to the main branch. This will trigger the production pipeline. 
 ### My changes are disruptive 😰. Can I still roll back?
 Yes, you can. Every commit has an associated docker image in the registry. Just revert the commit.
+### Where does it fetch k8s manifest from?
+There is a folder ```k8s-manifest``` in the root of the folder with the ```deployment.yaml``` file. That file contains the workload definiton.
+### How does the pipeline authenticate to Azure?
+There is a dedicated service principal account in the resource group RGR-DeOefenpraktijk. Credentials are stored securely in GitHub secrets. The pipeline then authenticates with those credentials to perform actions like build and push images.
+### Where can I learn more about AKS Continuous Deployments?
+https://learn.microsoft.com/en-us/azure/aks/kubernetes-action
 
 
 
