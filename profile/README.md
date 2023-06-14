@@ -12,7 +12,7 @@
 -->
 
 
-* [Markdown](/devops/cd.md "How to use CD?")
+* [How to use CD?](/devops/cd.md "How to use CD?")
 
 
 
