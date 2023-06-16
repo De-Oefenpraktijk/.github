@@ -12,8 +12,8 @@
 -->
 
 
-* [How to use CD?](/devops/cd.md "How to use CD?🧪")
-*  [How to use CD?](/devops/monitoring-and-observability.md "Monitoring and observability?🔎")
+* [How to use CD?🧪](/devops/cd.md "How to use CD?🧪")
+*  [Monitoring and observability🔎](/devops/monitoring-and-observability.md "Monitoring and observability?🔎")
 
 
 
