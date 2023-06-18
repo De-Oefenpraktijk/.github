@@ -14,7 +14,7 @@
 
 * [How to use CD?🧪](/devops/cd.md "How to use CD?🧪")
 *  [Monitoring and observability🔎](/devops/monitoring-and-observability.md "Monitoring and observability?🔎")
-* [Kubernetes and Azure. ☁️](https://github.com/De-Oefenpraktijk/Manifest-As-Code "Kubernetes and Azure ☁️")
+* [Kubernetes and Azure ☁️](https://github.com/De-Oefenpraktijk/Manifest-As-Code "Kubernetes and Azure ☁️")
 
 
 
