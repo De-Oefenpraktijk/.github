@@ -10,12 +10,15 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+Introduction (Sem)
 
-
-* [How to use CD?🧪](/devops/cd.md "How to use CD?🧪")
-*  [Monitoring and observability🔎](/devops/monitoring-and-observability.md "Monitoring and observability?🔎")
+* [How to use CD?🧪](/devops/cd.md "How to use CD?🧪") (Valeri)
+* [Monitoring and observability🔎](/devops/monitoring-and-observability.md "Monitoring and observability?🔎")
 * [Kubernetes and Azure ☁️](https://github.com/De-Oefenpraktijk/Manifest-As-Code "Kubernetes and Azure ☁️")
-
+* Jitsi (Stoycho)
+* Frontend in cloud(Stoycho)
+* Security and OAuth(Antonio)
+* Architecture - Stelian(Why monalyth when micro) and Sem(Architecture diagram)
 
 
 
