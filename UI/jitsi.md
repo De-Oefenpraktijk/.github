@@ -1,5 +1,5 @@
 # Document Overview
-This document explains why, why it was chosen, and how it can be used.
+This document explains what is Jitsi, why it was chosen, and how it can be used.
 
 # What is Jitsi
 Jitsi is an open-source platform for video conferencing, online meetings, and real-time communication. It provides a set of tools and libraries that allow developers to integrate video conferencing capabilities into their applications or build their own video conferencing solutions. Jitsi offers features such as multi-party video calls, screen sharing, chat functionality, and more. It aims to provide secure and privacy-focused communication options, making it a popular choice for various applications and projects.
