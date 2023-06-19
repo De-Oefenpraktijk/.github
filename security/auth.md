@@ -31,5 +31,5 @@ Read more [here](https://auth0.com/docs/get-started/authentication-and-authoriza
 # Post-registration flow
 In section Actions > Flows you can find the Post registration flow containing CreateAccount action. This action is responsible for creating a user account in the Profile database and assing a user role to it.
 
-# How to get test token
+# How to get test token?
 You can go to `Dashboard > Applications > APIs > Oefenpraktijk Backend > Test` to obtain test JWT token for the testing the backend.
