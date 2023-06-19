@@ -17,7 +17,7 @@ Introduction (Sem)
 * [Kubernetes and Azure ☁️](https://github.com/De-Oefenpraktijk/Manifest-As-Code "Kubernetes and Azure ☁️")
 * [UI - why, how and where](/UI/UI.md "UI - why, how and where")
 * [Jitsi - library for video communication in browser](/UI/jitsi.md "Jitsi - library for video communication in browser ")
-* Security and OAuth(Antonio)
+* [Security and Auth 🔒](/security/auth.md)
 * Architecture - Stelian(Why monalyth when micro) and Sem(Architecture diagram)
 
 
