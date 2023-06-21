@@ -1,6 +1,7 @@
 # Architecture
 
 Below you see an image describing the architecture of the Oefenpraktijk application. The frontend is a React application that makes API requests to the Kubernetes cluster, which it can access through the ingress. The ingress then passes the requests to the correct services in the cluster.
+
 ![Oefenpraktijk architecture](./Diagram.drawio.png)
 
 ## Services
