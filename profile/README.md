@@ -20,4 +20,4 @@ We have created several documents to help you understand what progress we have m
 - [UI - why, how and where](/UI/UI.md "UI - why, how and where")
 - [Jitsi - library for video communication in browser](/UI/jitsi.md "Jitsi - library for video communication in browser ")
 - [Security and Auth 🔒](/security/auth.md)
-- [Architecture](/architecture/README.md) - Stelian(Why monalyth when micro) and Sem(Architecture diagram)
+- [Architecture](/architecture/README.md)
