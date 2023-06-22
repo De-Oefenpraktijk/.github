@@ -25,7 +25,7 @@ Links:
 - Cypress: https://cloud.cypress.io/projects/qv89m8/
 
 # DevOps Flow
-![Alt text](../devopsci.png "Optional title")
+![Alt text](../devopsci.jpeg "Optional title")
 
 # To Be Done
 - Frontend CI
