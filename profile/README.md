@@ -13,6 +13,7 @@
 
 We have created several documents to help you understand what progress we have made and to help you get started quickly. We assume you already have had some contact with Susan and know the general idea of the platform. To gain access to things like Auth0 and the Oefenpraktijk gmail account, please contact us on Teams or on e-mail. You can also contact us there if you have any questions.
 
+- [How to use CI?](/devops/ci.md "How to use CI?")
 - [How to use CD?🧪](/devops/cd.md "How to use CD?🧪") (Valeri)
 - [Monitoring and observability🔎](/devops/monitoring-and-observability.md "Monitoring and observability?🔎")
 - [Kubernetes and Azure ☁️](https://github.com/De-Oefenpraktijk/Manifest-As-Code "Kubernetes and Azure ☁️")
